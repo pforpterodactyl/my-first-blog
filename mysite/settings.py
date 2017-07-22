@@ -25,7 +25,7 @@ SECRET_KEY = '!q5@$=b5=fo)5@1!6$i0%_7(ag$ga+pzid-9d_x8ii+_*cp-%#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<pforpterodacty.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'pforpterodactyl.pythonanywhere.com']
 
 
 # Application definition
